@@ -6,7 +6,7 @@
     url = https://github.com/libretro-fork/nihstro.git
 [submodule "soundtouch"]
     path = externals/soundtouch
-    url = https://codeberg.org/soundtouch/soundtouch.git
+    url = https://github.com/rtiangha/ext-soundtouch.git
 [submodule "catch"]
     path = externals/catch
     url = https://github.com/philsquared/Catch.git
